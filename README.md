@@ -1,5 +1,6 @@
 # Original idea from koen
  https://github.com/notkoen
+ https://github.com/notkoen/csgo-console-server-browser
 
 # NMRiH Server List display in Console
  A server browser built into csgo console with shortcuts for connecting to servers. Highly customizeable and faster than using the community server browser.
